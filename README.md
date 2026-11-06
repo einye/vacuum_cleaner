@@ -33,3 +33,8 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install matplotlib
+```
+
+## Acknowledgements
+
+Artificial Intelligence: A Modern Approach (Russell & Norvig) - for the classic vacuum world problem
